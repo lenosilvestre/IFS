@@ -16,19 +16,19 @@ Esta página foi criada para fornecer recursos de estudo para o Concurso Públic
 
 2. **Legislação:**
    - Encontre informações sobre legislação pertinente ao concurso.
-   - [Clique aqui para acessar a legislação](legislacao.html)
+   - [Clique aqui para acessar a legislação](https://lenosilvestre.github.io/IFS/legislacao.html)
 
 3. **Específicos de Biologia:**
    - Estude os tópicos específicos de Biologia para o concurso.
-   - [Clique aqui para acessar os materiais de Biologia](biologia.html)
+   - [Clique aqui para acessar os materiais de Biologia](https://lenosilvestre.github.io/IFS/biologia.html)
 
 4. **Específicos de Informática:**
    - Aprofunde-se nos conteúdos específicos de Informática exigidos no concurso.
-   - [Clique aqui para acessar os materiais de Informática](informatica.html)
+   - [Clique aqui para acessar os materiais de Informática](https://lenosilvestre.github.io/IFS/informatica.html)
 
 5. **Específicos de Letras Português:**
    - Explore os recursos relacionados aos conteúdos específicos de Letras Português.
-   - [Clique aqui para acessar os materiais de Letras Português](letras.html)
+   - [Clique aqui para acessar os materiais de Letras Português](https://lenosilvestre.github.io/IFS/letras.html)
 
 ---
 
