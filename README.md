@@ -51,3 +51,4 @@ Este projeto foi desenvolvido por Leno Silvestre como uma iniciativa para auxili
 **Aviso Legal:**
 
 Esta página é fornecida apenas como uma ferramenta de estudo e não possui vínculo oficial com o Instituto Federal de Sergipe (IFS). Os materiais disponíveis aqui são de responsabilidade de seus respectivos autores e foram reunidos com o objetivo de auxiliar os candidatos em sua preparação para o concurso.
+# ifes
