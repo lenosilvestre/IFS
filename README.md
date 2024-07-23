@@ -12,7 +12,7 @@ Esta página foi criada para fornecer recursos de estudo para o Concurso Públic
 
 1. **Edital Oficial e Anexos:**
    - Acesse o edital oficial e seus anexos para obter informações detalhadas sobre o concurso.
-   - [Clique aqui para acessar o edital](https://sistemas.institutoverbena.ufg.br/2024/concurso-ifs-docente/)
+   - [Clique aqui para acessar o edital](https://www.ifes.edu.br/processosseletivos/servidores/item/3127-concurso-publico-01-2024-docentes)
 
 2. **Legislação:**
    - Encontre informações sobre legislação pertinente ao concurso.
